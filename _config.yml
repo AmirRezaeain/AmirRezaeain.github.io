@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Amir Rezaeain"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "AI engineer, investigate fake news"
   location         : "Shiraz, Iran"
   employer         : "Persian Gulf University"
   uri              : # URL
